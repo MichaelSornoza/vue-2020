@@ -1,0 +1,2 @@
+Elemento HTML tome su texto en base a una propiedad de nuestro documento
+
